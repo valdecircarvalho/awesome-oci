@@ -8,7 +8,7 @@
 
 ## Oracle Cloud Infrastructure
 
-A curated list of AWESOME resources for learning and using [Oracle Cloud](https://cloud.oracle.com/home), created by the community to the community;
+A curated list of AWESOME resources for learning and using [Oracle Cloud](https://cloud.oracle.com/home), created by the community to the community.
 
 ## Index
 
@@ -267,8 +267,7 @@ https://github.com/tschf/awesome-oracle-cloud
 
 ## About this document
 
-Creator: @valdecircarvalho
-
+Creator: @valdecircarvalho and João de Alcantara Carvalho
 
 ### Disclaimer
 
